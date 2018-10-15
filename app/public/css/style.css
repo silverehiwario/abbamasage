@@ -66,6 +66,9 @@ container{
   color:#006400;
   font-size: 30px;
 }
+.content p:nth-child(4) {
+  font-size: 25px;
+}
 .content a {
   color: #006400;
   font: 20px 'Oswald', sans-serif;
